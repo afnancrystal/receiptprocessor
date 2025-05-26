@@ -1,6 +1,6 @@
 # 🧾 Receipt Processor API
 
-A web service that processes shopping receipts and awards points based on defined rules. Built in **Go**, containerized using **Docker**, and fully compliant with the provided API specs.
+A web service that processes shopping receipts and awards points based on defined rules. Built in **Go**, containerized using **Docker**, and fully compliant with the provided API spec.
 
 ---
 

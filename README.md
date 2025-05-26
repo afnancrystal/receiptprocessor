@@ -55,7 +55,7 @@ curl -X POST http://localhost:8080/receipts/process \
 **Response:**
 
 ```json
-{ "id": "abc123-..." }
+{ "id": "c2e705b3-09ba-48aa-a745-b9bd693fc4ed" }
 ```
 
 ---
